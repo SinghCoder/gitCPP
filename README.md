@@ -8,3 +8,4 @@
 
 [JavaPoint](https://www.javatpoint.com/restful-web-services-delete-resource) : good place for general knowledge
 
+[Summary](SUMMARY.md)
