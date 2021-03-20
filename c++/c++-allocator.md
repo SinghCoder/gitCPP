@@ -2,7 +2,7 @@
 
 Memory Fragmentation 
 
-{% embed url="https://stackoverflow.com/questions/3770457/what-is-memory-fragmentation" %}
+[https://stackoverflow.com/questions/3770457/what-is-memory-fragmentation](https://stackoverflow.com/questions/3770457/what-is-memory-fragmentation)
 
 magine that you have a "large" \(32 bytes\) expanse of free memory:
 

@@ -117,7 +117,7 @@ To limit the complexity of compile-time constant computations, and their potenti
 
 **const** is evaluated in runtime
 
-{% embed url="https://docs.microsoft.com/en-us/cpp/cpp/constexpr-cpp?view=vs-2019" %}
+[https://docs.microsoft.com/en-us/cpp/cpp/constexpr-cpp?view=vs-2019](https://docs.microsoft.com/en-us/cpp/cpp/constexpr-cpp?view=vs-2019)
 
 ```text
 constexpr double sum (double a, double b){

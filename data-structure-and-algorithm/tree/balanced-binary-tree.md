@@ -8,7 +8,7 @@ description: 'https://www.interviewcake.com/question/cpp/balanced-binary-tree'
 
 A tree is "superbalanced" if the difference between the depths of any two leaf nodes ↴ is no greater than one.
 
-{% embed url="https://leetcode.com/problems/balanced-binary-tree/" %}
+[https://leetcode.com/problems/balanced-binary-tree/](https://leetcode.com/problems/balanced-binary-tree/)
 
 ```cpp
 

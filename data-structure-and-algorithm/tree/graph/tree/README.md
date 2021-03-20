@@ -1,6 +1,6 @@
 # Tree
 
-{% embed url="https://web.cecs.pdx.edu/~sheard/course/Cs163/Doc/FullvsComplete.html" %}
+[https://web.cecs.pdx.edu/~sheard/course/Cs163/Doc/FullvsComplete.html](https://web.cecs.pdx.edu/~sheard/course/Cs163/Doc/FullvsComplete.html)
 
 Full tree - all nodes except leaves are fully filled
 

@@ -1,6 +1,6 @@
 # C++ Rule of Three
 
-{% embed url="https://en.wikipedia.org/wiki/Rule\_of\_three\_%28C++\_programming%29" %}
+[https://en.wikipedia.org/wiki/Rule\_of\_three\_%28C++\_programming%29](https://en.wikipedia.org/wiki/Rule\_of\_three\_%28C++\_programming%29)
 
 
 

@@ -14,7 +14,7 @@ Caches use SRAM \(Static Random Access Memory\) for speed and technology
 
 Main Memory uses DRAM for Size and density 
 
-{% embed url="https://www.microcontrollertips.com/dram-vs-sram/" %}
+[https://www.microcontrollertips.com/dram-vs-sram/](https://www.microcontrollertips.com/dram-vs-sram/)
 
 
 

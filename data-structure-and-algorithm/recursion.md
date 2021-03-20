@@ -73,7 +73,7 @@ int recursiveFun5(int n)
 
 Space Complexity 
 
-{% embed url="https://www.ideserve.co.in/learn/time-and-space-complexity-of-recursive-algorithms" %}
+[https://www.ideserve.co.in/learn/time-and-space-complexity-of-recursive-algorithms](https://www.ideserve.co.in/learn/time-and-space-complexity-of-recursive-algorithms)
 
 ![](../.gitbook/assets/image%20%28164%29.png)
 

@@ -1,6 +1,6 @@
 # Low Latency Trading System
 
-{% embed url="https://blog.quantinsti.com/automated-trading-system/" %}
+[https://blog.quantinsti.com/automated-trading-system/](https://blog.quantinsti.com/automated-trading-system/)
 
 1\) Kernel Bypass to avoid interrupts 
 

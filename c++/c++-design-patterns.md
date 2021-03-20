@@ -15,7 +15,7 @@ description: 'https://cpppatterns.com'
 
 
 
-{% embed url="https://en.wikibooks.org/wiki/C%2B%2B\_Programming/Code/Design\_Patterns" %}
+[https://en.wikibooks.org/wiki/C%2B%2B\_Programming/Code/Design\_Patterns](https://en.wikibooks.org/wiki/C%2B%2B\_Programming/Code/Design\_Patterns)
 
 
 

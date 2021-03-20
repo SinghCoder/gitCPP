@@ -1,6 +1,6 @@
 # 程序员如何准备技术面试
 
-{% embed url="https://zhuanlan.zhihu.com/p/38432342" %}
+[https://zhuanlan.zhihu.com/p/38432342](https://zhuanlan.zhihu.com/p/38432342)
 
 本文章由 [ResumeJob](https://link.zhihu.com/?target=https%3A//resumejob.net/) 撰写，**ResumeJob 能帮助你审视简历，模拟面试，重新规划你的职业生涯。**我们团队在国内外公司面试过数百名的工程师，浏览过千份简历，志在帮助程序员找到合适自己的工作，如果你想知道简历哪里出现问题或者想在面试前进行模拟面试的话，欢迎联系我们，了解更多细节欢迎浏览 [https://resumejob.net/](https://link.zhihu.com/?target=https%3A//resumejob.net/) 。
 

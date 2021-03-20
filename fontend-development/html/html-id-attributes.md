@@ -22,7 +22,7 @@ In the following example we have an `<h1>` element that points to the id name "m
 
 use id in HTML by Javascript
 
-{% embed url="https://document.getElementByid" %}
+[https://document.getElementByid](https://document.getElementByid)
 
 
 

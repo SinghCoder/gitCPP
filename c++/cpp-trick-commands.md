@@ -74,5 +74,5 @@ accumulate \(vec.begin\(\), vec.end\(\), 0\);
 
  
 
-{% embed url="http://www.cplusplus.com/reference/forward\_list/forward\_list/" %}
+[http://www.cplusplus.com/reference/forward\_list/forward\_list/](http://www.cplusplus.com/reference/forward\_list/forward\_list/)
 

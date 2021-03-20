@@ -336,7 +336,7 @@ library and runtime support for creating class instance and arrays , accessing
 and modify fields of objects, classes and elements of arrays
 ```
 
-{% embed url="https://www.cse.huji.ac.il/course/2004/ood/docs/lec08.pdf" %}
+[https://www.cse.huji.ac.il/course/2004/ood/docs/lec08.pdf](https://www.cse.huji.ac.il/course/2004/ood/docs/lec08.pdf)
 
 **what is command pattern ?**
 
