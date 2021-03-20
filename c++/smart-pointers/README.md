@@ -49,7 +49,7 @@ int main(){
 
 -&gt; each object has two pointers \(one for actual object, one for reference counting\)
 
-{% embed url="https://thispointer.com/learning-shared\_ptr-part-1-usage-details/" %}
+[Learning shared ptr](https://thispointer.com/learning-shared\_ptr-part-1-usage-details/)
 
 -&gt; shared pointer you can create to a specific object class, but for array, there's an issue as it always calls delete by default and not delete\[\].
 
